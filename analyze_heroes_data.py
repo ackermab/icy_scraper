@@ -40,6 +40,6 @@ for map_name in MAPS:
     weak_str = ', '.join(weaker_heroes)
 
     print(f'---- strong heroes are: {strong_str}')
-    #print(f'---- averag heroes are: {average_str}')
-    #print(f'---- weaker heroes are: {weak_str}')
+    print(f'---- averag heroes are: {average_str}')
+    print(f'---- weaker heroes are: {weak_str}')
     print('')

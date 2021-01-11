@@ -1,402 +1,430 @@
-deckard
----- is countered by: tracer, diablo, kerrigan, samuro, alarak
----- counters: auriel
+zagara
+---- is countered by: falstad, chen, illidan, zeratul
+---- counters: the-lost-vikings, uther
 
-rexxar
----- is countered by: zeratul, qhira
+lunara
+---- is countered by: malfurion, stukov, illidan, genji
+---- counters: gazlowe, ragnaros, blaze, artanis, orphea, zarya, malthael, thrall, genji, medivh, varian, lt-morales, uther, tyrande, maiev
+
+kharazim
+---- is countered by: auriel, uther, johanna, medivh
+---- counters: cho, gall
+
+rehgar
+---- is countered by: tracer, varian, ana, muradin
+---- counters: varian
+
+xul
+---- is countered by: sgt-hammer, e-t-c, johanna, jaina, auriel
+---- counters: greymane
+
+ragnaros
+---- is countered by: garrosh, stukov, jaina, lunara, chen
+---- counters: abathur
+
+stitches
+---- is countered by: greymane, tychus, malthael, johanna, anduin
+---- counters: mephisto, sgt-hammer
+
+falstad
+---- is countered by: greymane, valeera, nova, genji, zeratul, illidan
+---- counters: zagara, anduin, leoric, the-lost-vikings, malthael, abathur
+
+nazeebo
+---- is countered by: sylvanas, e-t-c
+---- counters: uther
+
+dehaka
+---- is countered by: lucio, sgt-hammer, e-t-c, valla, raynor
+---- counters: zuljin, leoric, the-lost-vikings, abathur
+
+whitemane
+---- is countered by: li-ming, raynor, alarak
 ---- counters: 
 
 azmodan
 ---- is countered by: malthael, leoric, diablo, the-butcher, sonya, artanis, anubarak, muradin
 ---- counters: 
 
-chromie
----- is countered by: diablo, zeratul, illidan, tracer
----- counters: gazlowe, auriel, sgt-hammer, lt-morales
+tyrande
+---- is countered by: fenix, zeratul, maiev, lunara, anubarak, muradin
+---- counters: e-t-c
 
-ana
----- is countered by: zeratul, lucio, anubarak, hanzo
----- counters: anduin, leoric, alexstrasza, rehgar, mei, hogger, arthas
-
-tassadar
----- is countered by: tracer, greymane, zeratul, kerrigan, anubarak
----- counters: zarya, nova
-
-greymane
----- is countered by: brightwing, arthas, johanna, the-butcher, uther, xul, muradin
----- counters: cho, stitches, tyrael, gall, guldan, tassadar, valla, deathwing, falstad
-
-malthael
----- is countered by: blaze, tracer, fenix, falstad, valla, lunara
----- counters: blaze, garrosh, cho, anubarak, dva, azmodan, stitches, gall, e-t-c, diablo, uther
-
-imperius
----- is countered by: lucio, sgt-hammer, e-t-c, zuljin, raynor, jaina
----- counters: cho, gall
-
-the-butcher
----- is countered by: e-t-c, brightwing, uther, johanna
----- counters: zuljin, azmodan, valla, sylvanas, greymane
-
-whitemane
----- is countered by: li-ming, raynor, alarak
----- counters: 
-
-valla
----- is countered by: greymane, valeera, nova, zeratul, the-butcher, illidan
----- counters: blaze, garrosh, anubarak, dehaka, e-t-c, malthael, deathwing
-
-sylvanas
----- is countered by: valeera, nova, genji, zeratul, the-butcher, diablo, chen
----- counters: sonya, nazeebo, alexstrasza, uther, abathur
-
-alarak
----- is countered by: medivh, deathwing, e-t-c, johanna
----- counters: jaina, probius, li-li, malfurion, deckard, whitemane
-
-zuljin
----- is countered by: e-t-c, zeratul, the-butcher, diablo, dehaka
----- counters: anubarak, imperius
-
-arthas
----- is countered by: tracer, ana, garrosh, raynor, jaina, sonya
----- counters: garrosh, artanis, valeera, illidan, thrall, varian, greymane, maiev
-
-thrall
----- is countered by: arthas, malfurion, johanna, kaelthas, lunara
----- counters: muradin
+tyrael
+---- is countered by: greymane, zeratul, e-t-c, garrosh
+---- counters: kerrigan, nova, junkrat, maiev
 
 murky
 ---- is countered by: tracer, li-ming, tychus, nova, genji, zarya
 ---- counters: 
 
-illidan
----- is countered by: brightwing, arthas, e-t-c, johanna, li-li, varian, sonya, uther, muradin
----- counters: lunara, zagara, anduin, chromie, kaelthas, hanzo, guldan, valla, nova, junkrat, falstad
+tracer
+---- is countered by: sgt-hammer, medivh, raynor, diablo, varian
+---- counters: blaze, kel-thuzad, anubarak, murky, jaina, orphea, anduin, leoric, probius, chromie, kaelthas, rehgar, malfurion, malthael, guldan, deckard, li-ming, tassadar, junkrat, deathwing, arthas, maiev
 
-nazeebo
----- is countered by: sylvanas, e-t-c
----- counters: uther
+cho
+---- is countered by: greymane, imperius, garrosh, malthael, leoric, raynor, kharazim, anubarak
+---- counters: 
 
-artanis
----- is countered by: arthas, e-t-c, li-li, jaina, varian, lunara
----- counters: azmodan, malfurion, sgt-hammer, raynor
+brightwing
+---- is countered by: e-t-c, anubarak, johanna
+---- counters: the-butcher, sonya, e-t-c, illidan, zeratul, greymane, maiev
 
-rehgar
----- is countered by: tracer, varian, ana, muradin
----- counters: varian
+kaelthas
+---- is countered by: tracer, zeratul, illidan, kerrigan
+---- counters: dva, mephisto, alexstrasza, thrall, cassia
 
-leoric
----- is countered by: tracer, ana, falstad, dehaka, samuro
----- counters: blaze, cho, anubarak, azmodan, gall, e-t-c, diablo
+auriel
+---- is countered by: anubarak, chromie, junkrat, deckard, chen
+---- counters: kerrigan, zarya, e-t-c, kharazim, lt-morales, xul
 
-ragnaros
----- is countered by: garrosh, stukov, jaina, lunara, chen
----- counters: abathur
+junkrat
+---- is countered by: tracer, genji, zeratul, tyrael, illidan
+---- counters: auriel, mephisto, mei
 
-tychus
----- is countered by: lucio, anubarak, johanna
----- counters: garrosh, sonya, murky, stitches, diablo, deathwing
+anubarak
+---- is countered by: tracer, malthael, leoric, valla, zuljin, varian
+---- counters: kel-thuzad, cho, lucio, azmodan, brightwing, jaina, orphea, auriel, gall, mephisto, li-li, alexstrasza, malfurion, li-ming, tychus, tassadar, ana, stukov, tyrande
 
-mephisto
----- is countered by: kel-thuzad, stitches, kaelthas, junkrat, anubarak
+blaze
+---- is countered by: tracer, nova, malthael, leoric, valla, lunara
+---- counters: malthael
+
+li-ming
+---- is countered by: tracer, anubarak, valeera, genji, zeratul, samuro, chen
+---- counters: gazlowe, murky, the-lost-vikings, malfurion, sgt-hammer, chen, whitemane
+
+probius
+---- is countered by: tracer, zeratul, alarak, kerrigan
 ---- counters: 
 
 gazlowe
 ---- is countered by: li-ming, hanzo, chromie, guldan, raynor, lunara
 ---- counters: 
 
-guldan
----- is countered by: greymane, illidan, tracer, kerrigan
----- counters: gazlowe, medivh, uther, cassia
-
-kerrigan
----- is countered by: garrosh, e-t-c, medivh, tyrael, auriel, uther
----- counters: probius, kaelthas, malfurion, guldan, deckard, tassadar
-
-blaze
----- is countered by: tracer, nova, malthael, leoric, valla, lunara
----- counters: malthael
-
-gall
----- is countered by: greymane, imperius, garrosh, malthael, leoric, raynor, kharazim, anubarak
----- counters: 
-
-malfurion
----- is countered by: tracer, li-ming, jaina, kerrigan, artanis, anubarak, alarak
----- counters: lunara, thrall, genji, medivh, malganis, muradin
-
-dehaka
----- is countered by: lucio, sgt-hammer, e-t-c, valla, raynor
----- counters: zuljin, leoric, the-lost-vikings, abathur
-
-auriel
----- is countered by: anubarak, chromie, junkrat, deckard, chen
----- counters: kerrigan, zarya, e-t-c, kharazim, lt-morales, xul
-
-fenix
----- is countered by: lucio, e-t-c, genji, zeratul, varian
----- counters: malthael, tyrande
-
-genji
----- is countered by: malfurion, varian, lunara
----- counters: kel-thuzad, murky, jaina, orphea, lunara, hanzo, fenix, li-ming, stukov, sylvanas, junkrat, falstad
-
-hanzo
----- is countered by: zeratul, illidan, genji
----- counters: gazlowe, mei, ana, hogger, malganis
-
-brightwing
----- is countered by: e-t-c, anubarak, johanna
----- counters: the-butcher, sonya, e-t-c, illidan, zeratul, greymane, maiev
-
-qhira
----- is countered by: lucio, e-t-c, muradin
----- counters: rexxar
+li-li
+---- is countered by: e-t-c, anubarak, jaina, alarak
+---- counters: artanis, illidan
 
 johanna
 ---- is countered by: varian
 ---- counters: the-butcher, brightwing, stitches, e-t-c, kharazim, illidan, thrall, tychus, raynor, alarak, cassia, xul, nova, greymane, yrel, maiev
 
-sonya
----- is countered by: tychus, brightwing, garrosh, sylvanas, e-t-c, diablo, muradin
----- counters: azmodan, samuro, the-lost-vikings, illidan, arthas
+the-lost-vikings
+---- is countered by: li-ming, nova, falstad, zeratul, dehaka, zagara, sonya
+---- counters: chen
 
-kaelthas
----- is countered by: tracer, zeratul, illidan, kerrigan
----- counters: dva, mephisto, alexstrasza, thrall, cassia
+zeratul
+---- is countered by: brightwing, e-t-c, medivh, diablo, varian, uther
+---- counters: zuljin, kel-thuzad, jaina, tyrael, zagara, probius, chromie, kaelthas, the-lost-vikings, hanzo, fenix, li-ming, rexxar, tassadar, mei, ana, malganis, valla, sylvanas, junkrat, deathwing, tyrande, falstad
 
-hogger
----- is countered by: hanzo, ana, e-t-c, medivh
+mephisto
+---- is countered by: kel-thuzad, stitches, kaelthas, junkrat, anubarak
 ---- counters: 
 
-diablo
----- is countered by: raynor, malthael, leoric, tychus
----- counters: zuljin, azmodan, sonya, anduin, chromie, samuro, deckard, tracer, sylvanas, zeratul
-
-kel-thuzad
----- is countered by: tracer, anubarak, valeera, nova, genji, zeratul, samuro, chen
----- counters: mephisto, sgt-hammer
-
-medivh
----- is countered by: malfurion, guldan, garrosh, lunara
----- counters: valeera, kerrigan, kharazim, samuro, varian, tracer, alarak, hogger, zeratul
+lt-morales
+---- is countered by: garrosh, chromie, lunara, auriel, chen
+---- counters: 
 
 zarya
 ---- is countered by: yrel, malganis, lunara, auriel, tassadar
 ---- counters: murky, abathur, nova
 
-uther
----- is countered by: nazeebo, sylvanas, malthael, guldan, lunara, zagara
----- counters: the-butcher, kerrigan, kharazim, illidan, stukov, zeratul, greymane
-
-probius
----- is countered by: tracer, zeratul, alarak, kerrigan
----- counters: 
-
-garrosh
----- is countered by: valla, malthael, arthas, tychus
----- counters: ragnaros, cho, sonya, kerrigan, tyrael, gall, medivh, lt-morales, malganis, arthas
-
-li-ming
----- is countered by: tracer, anubarak, valeera, genji, zeratul, samuro, chen
----- counters: gazlowe, murky, the-lost-vikings, malfurion, sgt-hammer, chen, whitemane
-
-zagara
----- is countered by: falstad, chen, illidan, zeratul
----- counters: the-lost-vikings, uther
-
-varian
----- is countered by: rehgar, arthas, e-t-c, medivh, lunara
----- counters: artanis, anubarak, lucio, johanna, rehgar, fenix, illidan, genji, tracer, zeratul
-
-anubarak
----- is countered by: tracer, malthael, leoric, valla, zuljin, varian
----- counters: kel-thuzad, cho, lucio, azmodan, brightwing, jaina, orphea, auriel, gall, mephisto, li-li, alexstrasza, malfurion, li-ming, tychus, tassadar, ana, stukov, tyrande
-
-e-t-c
----- is countered by: brightwing, malthael, johanna, leoric, tyrande, valla, raynor, auriel
----- counters: zuljin, the-butcher, artanis, dva, dehaka, sonya, brightwing, valeera, kerrigan, nazeebo, tyrael, li-li, samuro, fenix, illidan, imperius, varian, qhira, mei, alarak, hogger, cassia, xul, zeratul, chen, yrel, maiev, muradin
-
-lucio
----- is countered by: anubarak, sgt-hammer, varian, raynor
----- counters: dehaka, valeera, samuro, fenix, imperius, tychus, qhira, ana, chen, yrel, maiev
-
-li-li
----- is countered by: e-t-c, anubarak, jaina, alarak
----- counters: artanis, illidan
-
-tyrande
----- is countered by: fenix, zeratul, maiev, lunara, anubarak, muradin
----- counters: e-t-c
-
-junkrat
----- is countered by: tracer, genji, zeratul, tyrael, illidan
----- counters: auriel, mephisto, mei
-
 mei
 ---- is countered by: yrel, hanzo, ana, e-t-c, zeratul, junkrat
 ---- counters: 
 
-lunara
----- is countered by: malfurion, stukov, illidan, genji
----- counters: gazlowe, ragnaros, blaze, artanis, orphea, zarya, malthael, thrall, genji, medivh, varian, lt-morales, uther, tyrande, maiev
+sylvanas
+---- is countered by: valeera, nova, genji, zeratul, the-butcher, diablo, chen
+---- counters: sonya, nazeebo, alexstrasza, uther, abathur
 
-falstad
----- is countered by: greymane, valeera, nova, genji, zeratul, illidan
----- counters: zagara, anduin, leoric, the-lost-vikings, malthael, abathur
-
-kharazim
----- is countered by: auriel, uther, johanna, medivh
----- counters: cho, gall
-
-dva
----- is countered by: stukov, malthael, e-t-c, kaelthas, raynor
----- counters: 
-
-sgt-hammer
----- is countered by: li-ming, kel-thuzad, chromie, stitches, artanis
----- counters: lucio, dehaka, imperius, tracer, abathur, cassia, xul
+the-butcher
+---- is countered by: e-t-c, brightwing, uther, johanna
+---- counters: zuljin, azmodan, valla, sylvanas, greymane
 
 abathur
 ---- is countered by: sgt-hammer, sylvanas, falstad, dehaka, ragnaros, zarya
 ---- counters: 
 
-tyrael
----- is countered by: greymane, zeratul, e-t-c, garrosh
----- counters: kerrigan, nova, junkrat, maiev
+maiev
+---- is countered by: tracer, lucio, brightwing, arthas, johanna, e-t-c, tyrael, lunara
+---- counters: tyrande
 
-anduin
----- is countered by: tracer, ana, falstad, diablo, illidan
----- counters: stitches
+malfurion
+---- is countered by: tracer, li-ming, jaina, kerrigan, artanis, anubarak, alarak
+---- counters: lunara, thrall, genji, medivh, malganis, muradin
 
-deathwing
----- is countered by: greymane, tracer, tychus, valla, zeratul
----- counters: alarak
+greymane
+---- is countered by: brightwing, arthas, johanna, the-butcher, uther, xul, muradin
+---- counters: cho, stitches, tyrael, gall, guldan, tassadar, valla, deathwing, falstad
 
-samuro
----- is countered by: lucio, yrel, stukov, e-t-c, medivh, diablo, jaina, sonya, orphea, cassia
----- counters: kel-thuzad, leoric, deckard, li-ming
+imperius
+---- is countered by: lucio, sgt-hammer, e-t-c, zuljin, raynor, jaina
+---- counters: cho, gall
 
-muradin
----- is countered by: thrall, malfurion, e-t-c, raynor, jaina
----- counters: azmodan, sonya, orphea, rehgar, illidan, qhira, nova, greymane, tyrande
-
-the-lost-vikings
----- is countered by: li-ming, nova, falstad, zeratul, dehaka, zagara, sonya
----- counters: chen
-
-nova
----- is countered by: zarya, johanna, tyrael, chen, illidan, tassadar, muradin
----- counters: blaze, kel-thuzad, murky, jaina, orphea, the-lost-vikings, valla, sylvanas, falstad
-
-yrel
----- is countered by: lucio, raynor, e-t-c, johanna
----- counters: zarya, samuro, alexstrasza, mei, chen
-
-alexstrasza
----- is countered by: yrel, ana, sylvanas, kaelthas, anubarak
----- counters: 
-
-malganis
----- is countered by: malfurion, zeratul, hanzo, garrosh
----- counters: zarya, cassia
-
-valeera
----- is countered by: lucio, medivh, e-t-c, arthas
----- counters: kel-thuzad, jaina, li-ming, valla, sylvanas, falstad
+stukov
+---- is countered by: anubarak, uther, genji
+---- counters: ragnaros, dva, lunara, samuro
 
 orphea
 ---- is countered by: tracer, anubarak, nova, genji, lunara, chen, muradin
 ---- counters: samuro
 
-raynor
----- is countered by: artanis, johanna, cassia
----- counters: gazlowe, cho, lucio, dva, dehaka, gall, e-t-c, diablo, imperius, tracer, chen, whitemane, yrel, arthas, muradin
+alarak
+---- is countered by: medivh, deathwing, e-t-c, johanna
+---- counters: jaina, probius, li-li, malfurion, deckard, whitemane
 
-lt-morales
----- is countered by: garrosh, chromie, lunara, auriel, chen
+dva
+---- is countered by: stukov, malthael, e-t-c, kaelthas, raynor
 ---- counters: 
 
 cassia
 ---- is countered by: sgt-hammer, e-t-c, malganis, johanna, kaelthas, guldan
 ---- counters: samuro, raynor
 
+tychus
+---- is countered by: lucio, anubarak, johanna
+---- counters: garrosh, sonya, murky, stitches, diablo, deathwing
+
+thrall
+---- is countered by: arthas, malfurion, johanna, kaelthas, lunara
+---- counters: muradin
+
+lucio
+---- is countered by: anubarak, sgt-hammer, varian, raynor
+---- counters: dehaka, valeera, samuro, fenix, imperius, tychus, qhira, ana, chen, yrel, maiev
+
+sgt-hammer
+---- is countered by: li-ming, kel-thuzad, chromie, stitches, artanis
+---- counters: lucio, dehaka, imperius, tracer, abathur, cassia, xul
+
+alexstrasza
+---- is countered by: yrel, ana, sylvanas, kaelthas, anubarak
+---- counters: 
+
+chromie
+---- is countered by: diablo, zeratul, illidan, tracer
+---- counters: gazlowe, auriel, sgt-hammer, lt-morales
+
+hanzo
+---- is countered by: zeratul, illidan, genji
+---- counters: gazlowe, mei, ana, hogger, malganis
+
+valla
+---- is countered by: greymane, valeera, nova, zeratul, the-butcher, illidan
+---- counters: blaze, garrosh, anubarak, dehaka, e-t-c, malthael, deathwing
+
+malthael
+---- is countered by: blaze, tracer, fenix, falstad, valla, lunara
+---- counters: blaze, garrosh, cho, anubarak, dva, azmodan, stitches, gall, e-t-c, diablo, uther
+
+illidan
+---- is countered by: brightwing, arthas, e-t-c, johanna, li-li, varian, sonya, uther, muradin
+---- counters: lunara, zagara, anduin, chromie, kaelthas, hanzo, guldan, valla, nova, junkrat, falstad
+
+anduin
+---- is countered by: tracer, ana, falstad, diablo, illidan
+---- counters: stitches
+
+malganis
+---- is countered by: malfurion, zeratul, hanzo, garrosh
+---- counters: zarya, cassia
+
+medivh
+---- is countered by: malfurion, guldan, garrosh, lunara
+---- counters: valeera, kerrigan, kharazim, samuro, varian, tracer, alarak, hogger, zeratul
+
+artanis
+---- is countered by: arthas, e-t-c, li-li, jaina, varian, lunara
+---- counters: azmodan, malfurion, sgt-hammer, raynor
+
 chen
 ---- is countered by: the-lost-vikings, lucio, li-ming, yrel, e-t-c, raynor
 ---- counters: ragnaros, kel-thuzad, jaina, orphea, zagara, auriel, li-ming, lt-morales, sylvanas, nova
 
-stukov
----- is countered by: anubarak, uther, genji
----- counters: ragnaros, dva, lunara, samuro
+kel-thuzad
+---- is countered by: tracer, anubarak, valeera, nova, genji, zeratul, samuro, chen
+---- counters: mephisto, sgt-hammer
 
-zeratul
----- is countered by: brightwing, e-t-c, medivh, diablo, varian, uther
----- counters: zuljin, kel-thuzad, jaina, tyrael, zagara, probius, chromie, kaelthas, the-lost-vikings, hanzo, fenix, li-ming, rexxar, tassadar, mei, ana, malganis, valla, sylvanas, junkrat, deathwing, tyrande, falstad
+zuljin
+---- is countered by: e-t-c, zeratul, the-butcher, diablo, dehaka
+---- counters: anubarak, imperius
 
-tracer
----- is countered by: sgt-hammer, medivh, raynor, diablo, varian
----- counters: blaze, kel-thuzad, anubarak, murky, jaina, orphea, anduin, leoric, probius, chromie, kaelthas, rehgar, malfurion, malthael, guldan, deckard, li-ming, tassadar, junkrat, deathwing, arthas, maiev
+valeera
+---- is countered by: lucio, medivh, e-t-c, arthas
+---- counters: kel-thuzad, jaina, li-ming, valla, sylvanas, falstad
 
-maiev
----- is countered by: tracer, lucio, brightwing, arthas, johanna, e-t-c, tyrael, lunara
----- counters: tyrande
+e-t-c
+---- is countered by: brightwing, malthael, johanna, leoric, tyrande, valla, raynor, auriel
+---- counters: zuljin, the-butcher, artanis, dva, dehaka, sonya, brightwing, valeera, kerrigan, nazeebo, tyrael, li-li, samuro, fenix, illidan, imperius, varian, qhira, mei, alarak, hogger, cassia, xul, zeratul, chen, yrel, maiev, muradin
+
+samuro
+---- is countered by: lucio, yrel, stukov, e-t-c, medivh, diablo, jaina, sonya, orphea, cassia
+---- counters: kel-thuzad, leoric, deckard, li-ming
+
+leoric
+---- is countered by: tracer, ana, falstad, dehaka, samuro
+---- counters: blaze, cho, anubarak, azmodan, gall, e-t-c, diablo
+
+hogger
+---- is countered by: hanzo, ana, e-t-c, medivh
+---- counters: 
+
+sonya
+---- is countered by: tychus, brightwing, garrosh, sylvanas, e-t-c, diablo, muradin
+---- counters: azmodan, samuro, the-lost-vikings, illidan, arthas
+
+varian
+---- is countered by: rehgar, arthas, e-t-c, medivh, lunara
+---- counters: artanis, anubarak, lucio, johanna, rehgar, fenix, illidan, genji, tracer, zeratul
+
+deckard
+---- is countered by: tracer, diablo, kerrigan, samuro, alarak
+---- counters: auriel
+
+diablo
+---- is countered by: raynor, malthael, leoric, tychus
+---- counters: zuljin, azmodan, sonya, anduin, chromie, samuro, deckard, tracer, sylvanas, zeratul
 
 jaina
 ---- is countered by: tracer, anubarak, valeera, nova, genji, zeratul, chen, alarak
 ---- counters: ragnaros, artanis, li-li, samuro, malfurion, imperius, xul, arthas, muradin
 
-xul
----- is countered by: sgt-hammer, e-t-c, johanna, jaina, auriel
----- counters: greymane
+genji
+---- is countered by: malfurion, varian, lunara
+---- counters: kel-thuzad, murky, jaina, orphea, lunara, hanzo, fenix, li-ming, stukov, sylvanas, junkrat, falstad
 
-stitches
----- is countered by: greymane, tychus, malthael, johanna, anduin
----- counters: mephisto, sgt-hammer
+guldan
+---- is countered by: greymane, illidan, tracer, kerrigan
+---- counters: gazlowe, medivh, uther, cassia
 
-cho
+rexxar
+---- is countered by: zeratul, qhira
+---- counters: 
+
+uther
+---- is countered by: nazeebo, sylvanas, malthael, guldan, lunara, zagara
+---- counters: the-butcher, kerrigan, kharazim, illidan, stukov, zeratul, greymane
+
+fenix
+---- is countered by: lucio, e-t-c, genji, zeratul, varian
+---- counters: malthael, tyrande
+
+garrosh
+---- is countered by: valla, malthael, arthas, tychus
+---- counters: ragnaros, cho, sonya, kerrigan, tyrael, gall, medivh, lt-morales, malganis, arthas
+
+ana
+---- is countered by: zeratul, lucio, anubarak, hanzo
+---- counters: anduin, leoric, alexstrasza, rehgar, mei, hogger, arthas
+
+raynor
+---- is countered by: artanis, johanna, cassia
+---- counters: gazlowe, cho, lucio, dva, dehaka, gall, e-t-c, diablo, imperius, tracer, chen, whitemane, yrel, arthas, muradin
+
+gall
 ---- is countered by: greymane, imperius, garrosh, malthael, leoric, raynor, kharazim, anubarak
 ---- counters: 
 
-map-infernal-shrines
----- strong heroes are: gazlowe, ragnaros, blaze, cho, dva, azmodan, sonya, jaina, johanna, kerrigan, leoric, probius, gall, mephisto, kaelthas, alexstrasza, hanzo, malfurion, fenix, sgt-hammer, malthael, diablo, imperius, guldan, deckard, li-ming, tychus, genji, raynor, uther, tassadar, mei, hogger, malganis, xul, zeratul, chen, junkrat, deathwing, yrel, tyrande, maiev
+yrel
+---- is countered by: lucio, raynor, e-t-c, johanna
+---- counters: zarya, samuro, alexstrasza, mei, chen
 
-map-tomb-of-the-spider-queen
----- strong heroes are: the-butcher, ragnaros, garrosh, cho, azmodan, stitches, jaina, johanna, kerrigan, nazeebo, anduin, probius, gall, kaelthas, rehgar, fenix, malthael, diablo, guldan, deckard, rexxar, raynor, lt-morales, qhira, tassadar, ana, xul, sylvanas, chen, junkrat, greymane, tyrande, maiev
+qhira
+---- is countered by: lucio, e-t-c, muradin
+---- counters: rexxar
 
-map-sky-temple
----- strong heroes are: gazlowe, the-butcher, ragnaros, blaze, dehaka, brightwing, orphea, valeera, tyrael, zagara, kharazim, the-lost-vikings, malthael, diablo, illidan, thrall, guldan, medivh, tracer, abathur, malganis, xul, zeratul, junkrat, greymane, yrel
+arthas
+---- is countered by: tracer, ana, garrosh, raynor, jaina, sonya
+---- counters: garrosh, artanis, valeera, illidan, thrall, varian, greymane, maiev
 
-map-alterac-pass
----- strong heroes are: gazlowe, lucio, dva, dehaka, brightwing, stitches, orphea, kerrigan, zagara, anduin, probius, mephisto, kaelthas, samuro, the-lost-vikings, malfurion, imperius, guldan, li-ming, mei, abathur, malganis, sylvanas, junkrat, deathwing
+muradin
+---- is countered by: thrall, malfurion, e-t-c, raynor, jaina
+---- counters: azmodan, sonya, orphea, rehgar, illidan, qhira, nova, greymane, tyrande
+
+tassadar
+---- is countered by: tracer, greymane, zeratul, kerrigan, anubarak
+---- counters: zarya, nova
+
+nova
+---- is countered by: zarya, johanna, tyrael, chen, illidan, tassadar, muradin
+---- counters: blaze, kel-thuzad, murky, jaina, orphea, the-lost-vikings, valla, sylvanas, falstad
+
+deathwing
+---- is countered by: greymane, tracer, tychus, valla, zeratul
+---- counters: alarak
+
+kerrigan
+---- is countered by: garrosh, e-t-c, medivh, tyrael, auriel, uther
+---- counters: probius, kaelthas, malfurion, guldan, deckard, tassadar
 
 map-hanamura-temple
 ---- strong heroes are: artanis, stitches, auriel, zarya, kharazim, thrall, genji, varian, lt-morales, qhira, ana, malganis, chen, falstad, muradin
-
-map-cursed-hollow
----- strong heroes are: lucio, dehaka, brightwing, stitches, jaina, orphea, valeera, tyrael, zagara, leoric, samuro, the-lost-vikings, hanzo, illidan, li-ming, tychus, genji, medivh, tracer, mei, stukov, abathur, hogger, xul, zeratul, junkrat, falstad, maiev
-
-map-garden-of-terror
----- strong heroes are: the-butcher, cho, sonya, murky, orphea, zagara, leoric, gall, the-lost-vikings, malfurion, malthael, illidan, genji, varian, tassadar, mei, abathur, xul, junkrat, greymane, maiev
-
-map-blackhearts-bay
----- strong heroes are: ragnaros, sonya, valeera, malthael, illidan, thrall, varian, hogger, xul
-
-map-battlefield-of-eternity
----- strong heroes are: kel-thuzad, artanis, lucio, jaina, lunara, auriel, anduin, zarya, mephisto, kharazim, hanzo, rehgar, malfurion, sgt-hammer, thrall, imperius, deckard, li-ming, raynor, mei, alarak, malganis, valla, greymane, arthas, tyrande, muradin
-
-map-warhead-junction
----- strong heroes are: gazlowe, the-butcher, dehaka, azmodan, brightwing, orphea, valeera, tyrael, zagara, the-lost-vikings, malthael, illidan, varian, tracer, nova, junkrat, falstad
-
-map-braxis-holdout
----- strong heroes are: gazlowe, garrosh, kel-thuzad, dehaka, sonya, jaina, johanna, kerrigan, zagara, auriel, zarya, probius, mephisto, chromie, kaelthas, samuro, malfurion, fenix, sgt-hammer, thrall, guldan, deckard, rexxar, genji, varian, tassadar, mei, stukov, malganis, sylvanas, chen, junkrat, deathwing, yrel, falstad, maiev
-
-map-dragon-shire
----- strong heroes are: the-butcher, garrosh, anubarak, dehaka, sonya, valeera, johanna, kerrigan, nazeebo, anduin, kaelthas, kharazim, samuro, hanzo, rehgar, malthael, diablo, thrall, guldan, rexxar, raynor, varian, qhira, tracer, mei, hogger, chen, junkrat, greymane, yrel, tyrande, falstad, maiev
+---- averag heroes are: zuljin, the-butcher, ragnaros, blaze, garrosh, kel-thuzad, cho, anubarak, lucio, dva, azmodan, sonya, brightwing, murky, orphea, valeera, johanna, kerrigan, lunara, nazeebo, tyrael, anduin, leoric, probius, gall, mephisto, chromie, e-t-c, li-li, kaelthas, samuro, hanzo, rehgar, malfurion, fenix, diablo, illidan, guldan, deckard, li-ming, tychus, rexxar, medivh, raynor, uther, tracer, mei, stukov, alarak, valla, cassia, sylvanas, zeratul, nova, junkrat, deathwing, greymane, whitemane, yrel, arthas, tyrande
+---- weaker heroes are: gazlowe, dehaka, jaina, zagara, the-lost-vikings, alexstrasza, sgt-hammer, malthael, imperius, tassadar, abathur, hogger, xul, maiev
 
 map-volskaya-foundry
 ---- strong heroes are: gazlowe, the-butcher, ragnaros, blaze, garrosh, cho, lucio, dva, stitches, orphea, kerrigan, nazeebo, leoric, probius, gall, mephisto, chromie, kaelthas, the-lost-vikings, alexstrasza, hanzo, rehgar, diablo, thrall, imperius, guldan, tychus, varian, tassadar, tracer, hogger, sylvanas, junkrat, yrel
+---- averag heroes are: zuljin, kel-thuzad, anubarak, azmodan, sonya, brightwing, jaina, valeera, johanna, lunara, tyrael, zagara, auriel, anduin, zarya, e-t-c, li-li, kharazim, malfurion, fenix, sgt-hammer, malthael, deckard, li-ming, rexxar, genji, medivh, raynor, lt-morales, qhira, uther, mei, ana, stukov, alarak, malganis, valla, cassia, xul, zeratul, chen, deathwing, greymane, whitemane, arthas, tyrande, falstad, maiev, muradin
+---- weaker heroes are: artanis, dehaka, murky, samuro, illidan, abathur, nova
+
+map-cursed-hollow
+---- strong heroes are: lucio, dehaka, brightwing, stitches, jaina, orphea, valeera, tyrael, zagara, leoric, samuro, the-lost-vikings, hanzo, illidan, li-ming, tychus, genji, medivh, tracer, mei, stukov, abathur, hogger, xul, zeratul, junkrat, falstad, maiev
+---- averag heroes are: zuljin, gazlowe, the-butcher, ragnaros, blaze, garrosh, kel-thuzad, cho, artanis, anubarak, dva, azmodan, sonya, murky, johanna, kerrigan, lunara, nazeebo, anduin, probius, gall, mephisto, chromie, e-t-c, li-li, kaelthas, kharazim, alexstrasza, rehgar, malfurion, fenix, sgt-hammer, malthael, diablo, thrall, imperius, guldan, deckard, rexxar, raynor, varian, qhira, uther, alarak, malganis, valla, cassia, sylvanas, nova, deathwing, greymane, whitemane, yrel, arthas, tyrande, muradin
+---- weaker heroes are: auriel, zarya, lt-morales, tassadar, ana, chen
+
+map-garden-of-terror
+---- strong heroes are: the-butcher, cho, sonya, murky, orphea, zagara, leoric, gall, the-lost-vikings, malfurion, malthael, illidan, genji, varian, tassadar, mei, abathur, xul, junkrat, greymane, maiev
+---- averag heroes are: zuljin, gazlowe, ragnaros, blaze, garrosh, kel-thuzad, artanis, anubarak, lucio, dva, dehaka, azmodan, brightwing, stitches, jaina, valeera, johanna, kerrigan, lunara, nazeebo, tyrael, anduin, probius, mephisto, chromie, e-t-c, li-li, kaelthas, kharazim, samuro, alexstrasza, hanzo, rehgar, fenix, diablo, thrall, imperius, guldan, li-ming, tychus, rexxar, medivh, raynor, qhira, uther, tracer, stukov, alarak, hogger, malganis, valla, cassia, sylvanas, zeratul, nova, deathwing, whitemane, yrel, tyrande, falstad, muradin
+---- weaker heroes are: auriel, zarya, sgt-hammer, deckard, lt-morales, ana, chen, arthas
+
+map-warhead-junction
+---- strong heroes are: gazlowe, the-butcher, dehaka, azmodan, brightwing, orphea, valeera, tyrael, zagara, the-lost-vikings, malthael, illidan, varian, tracer, nova, junkrat, falstad
+---- averag heroes are: zuljin, ragnaros, blaze, garrosh, artanis, anubarak, lucio, sonya, murky, nazeebo, anduin, probius, chromie, e-t-c, li-li, kharazim, samuro, rehgar, malfurion, fenix, diablo, thrall, guldan, li-ming, rexxar, genji, medivh, raynor, qhira, tassadar, stukov, abathur, alarak, hogger, valla, cassia, xul, zeratul, deathwing, greymane, whitemane, yrel, arthas, tyrande, muradin
+---- weaker heroes are: kel-thuzad, cho, dva, stitches, jaina, johanna, kerrigan, lunara, auriel, zarya, leoric, gall, mephisto, kaelthas, alexstrasza, hanzo, sgt-hammer, imperius, deckard, tychus, lt-morales, uther, mei, ana, malganis, sylvanas, chen, maiev
+
+map-tomb-of-the-spider-queen
+---- strong heroes are: the-butcher, ragnaros, garrosh, cho, azmodan, stitches, jaina, johanna, kerrigan, nazeebo, anduin, probius, gall, kaelthas, rehgar, fenix, malthael, diablo, guldan, deckard, rexxar, raynor, lt-morales, qhira, tassadar, ana, xul, sylvanas, chen, junkrat, greymane, tyrande, maiev
+---- averag heroes are: zuljin, gazlowe, blaze, kel-thuzad, artanis, anubarak, lucio, dva, dehaka, sonya, orphea, lunara, tyrael, zagara, auriel, zarya, leoric, mephisto, chromie, e-t-c, li-li, hanzo, malfurion, illidan, imperius, li-ming, tychus, medivh, varian, uther, mei, stukov, alarak, hogger, valla, cassia, nova, deathwing, yrel, arthas, falstad
+---- weaker heroes are: brightwing, murky, valeera, kharazim, samuro, the-lost-vikings, alexstrasza, sgt-hammer, thrall, genji, tracer, abathur, malganis, zeratul, whitemane, muradin
+
+map-alterac-pass
+---- strong heroes are: gazlowe, lucio, dva, dehaka, brightwing, stitches, orphea, kerrigan, zagara, anduin, probius, mephisto, kaelthas, samuro, the-lost-vikings, malfurion, imperius, guldan, li-ming, mei, abathur, malganis, sylvanas, junkrat, deathwing
+---- averag heroes are: zuljin, the-butcher, ragnaros, blaze, garrosh, cho, anubarak, azmodan, sonya, murky, jaina, valeera, johanna, lunara, nazeebo, tyrael, auriel, zarya, leoric, gall, chromie, e-t-c, li-li, kharazim, alexstrasza, hanzo, rehgar, fenix, sgt-hammer, malthael, diablo, illidan, thrall, deckard, tychus, rexxar, genji, medivh, raynor, varian, lt-morales, qhira, uther, tassadar, tracer, ana, stukov, alarak, hogger, valla, cassia, xul, zeratul, chen, nova, greymane, whitemane, yrel, arthas, tyrande, falstad, maiev, muradin
+---- weaker heroes are: kel-thuzad, artanis
+
+map-braxis-holdout
+---- strong heroes are: gazlowe, garrosh, kel-thuzad, dehaka, sonya, jaina, johanna, kerrigan, zagara, auriel, zarya, probius, mephisto, chromie, kaelthas, samuro, malfurion, fenix, sgt-hammer, thrall, guldan, deckard, rexxar, genji, varian, tassadar, mei, stukov, malganis, sylvanas, chen, junkrat, deathwing, yrel, falstad, maiev
+---- averag heroes are: zuljin, blaze, cho, anubarak, lucio, brightwing, stitches, orphea, valeera, lunara, anduin, gall, e-t-c, li-li, hanzo, rehgar, malthael, diablo, imperius, li-ming, tychus, raynor, lt-morales, qhira, tracer, ana, alarak, hogger, valla, cassia, greymane, tyrande
+---- weaker heroes are: the-butcher, ragnaros, artanis, dva, azmodan, murky, nazeebo, tyrael, leoric, kharazim, the-lost-vikings, alexstrasza, illidan, medivh, uther, abathur, xul, zeratul, nova, whitemane, arthas, muradin
+
+map-dragon-shire
+---- strong heroes are: the-butcher, garrosh, anubarak, dehaka, sonya, valeera, johanna, kerrigan, nazeebo, anduin, kaelthas, kharazim, samuro, hanzo, rehgar, malthael, diablo, thrall, guldan, rexxar, raynor, varian, qhira, tracer, mei, hogger, chen, junkrat, greymane, yrel, tyrande, falstad, maiev
+---- averag heroes are: zuljin, gazlowe, ragnaros, blaze, kel-thuzad, cho, lucio, dva, azmodan, brightwing, murky, stitches, jaina, orphea, lunara, tyrael, zagara, auriel, zarya, leoric, probius, gall, mephisto, chromie, e-t-c, li-li, the-lost-vikings, malfurion, fenix, sgt-hammer, illidan, imperius, deckard, li-ming, tychus, genji, medivh, lt-morales, uther, tassadar, ana, stukov, abathur, alarak, malganis, valla, cassia, xul, sylvanas, zeratul, nova, deathwing, whitemane, muradin
+---- weaker heroes are: artanis, alexstrasza, arthas
+
+map-infernal-shrines
+---- strong heroes are: gazlowe, ragnaros, blaze, cho, dva, azmodan, sonya, jaina, johanna, kerrigan, leoric, probius, gall, mephisto, kaelthas, alexstrasza, hanzo, malfurion, fenix, sgt-hammer, malthael, diablo, imperius, guldan, deckard, li-ming, tychus, genji, raynor, uther, tassadar, mei, hogger, malganis, xul, zeratul, chen, junkrat, deathwing, yrel, tyrande, maiev
+---- averag heroes are: zuljin, the-butcher, garrosh, kel-thuzad, lucio, dehaka, brightwing, murky, stitches, orphea, valeera, lunara, nazeebo, tyrael, zagara, auriel, anduin, zarya, chromie, li-li, kharazim, samuro, the-lost-vikings, rehgar, illidan, thrall, rexxar, medivh, lt-morales, qhira, ana, stukov, abathur, valla, cassia, sylvanas, greymane, arthas, falstad
+---- weaker heroes are: artanis, anubarak, e-t-c, varian, tracer, alarak, nova, whitemane, muradin
+
+map-blackhearts-bay
+---- strong heroes are: ragnaros, sonya, valeera, malthael, illidan, thrall, varian, hogger, xul
+---- averag heroes are: zuljin, gazlowe, blaze, garrosh, kel-thuzad, cho, artanis, anubarak, lucio, dva, dehaka, azmodan, brightwing, jaina, johanna, lunara, tyrael, zagara, auriel, anduin, zarya, leoric, gall, mephisto, chromie, e-t-c, li-li, kharazim, samuro, the-lost-vikings, hanzo, rehgar, malfurion, fenix, diablo, guldan, deckard, rexxar, genji, medivh, raynor, qhira, uther, tassadar, tracer, stukov, abathur, valla, cassia, sylvanas, zeratul, chen, nova, junkrat, deathwing, greymane, whitemane, yrel, arthas, tyrande, falstad, maiev, muradin
+---- weaker heroes are: the-butcher, murky, stitches, orphea, kerrigan, nazeebo, probius, kaelthas, alexstrasza, sgt-hammer, imperius, li-ming, tychus, lt-morales, mei, ana, alarak, malganis
+
+map-sky-temple
+---- strong heroes are: gazlowe, the-butcher, ragnaros, blaze, dehaka, brightwing, orphea, valeera, tyrael, zagara, kharazim, the-lost-vikings, malthael, diablo, illidan, thrall, guldan, medivh, tracer, abathur, malganis, xul, zeratul, junkrat, greymane, yrel
+---- averag heroes are: zuljin, garrosh, kel-thuzad, cho, artanis, anubarak, lucio, azmodan, sonya, murky, jaina, johanna, kerrigan, lunara, auriel, anduin, zarya, probius, gall, mephisto, chromie, e-t-c, li-li, kaelthas, samuro, alexstrasza, hanzo, rehgar, malfurion, fenix, sgt-hammer, imperius, deckard, li-ming, rexxar, genji, raynor, qhira, uther, tassadar, mei, stukov, hogger, valla, cassia, sylvanas, chen, nova, deathwing, whitemane, arthas, tyrande, falstad, maiev, muradin
+---- weaker heroes are: dva, stitches, nazeebo, leoric, tychus, varian, lt-morales, ana, alarak
 
 map-towers-of-doom
 ---- strong heroes are: the-butcher, blaze, garrosh, kel-thuzad, lucio, dva, dehaka, brightwing, stitches, orphea, tyrael, zagara, leoric, probius, kaelthas, samuro, the-lost-vikings, hanzo, malthael, imperius, tychus, raynor, varian, lt-morales, tracer, mei, ana, abathur, alarak, hogger, malganis, zeratul, junkrat, falstad
+---- averag heroes are: zuljin, cho, anubarak, azmodan, sonya, murky, jaina, valeera, johanna, kerrigan, lunara, nazeebo, auriel, anduin, zarya, gall, mephisto, chromie, e-t-c, li-li, kharazim, rehgar, malfurion, fenix, sgt-hammer, diablo, thrall, guldan, deckard, li-ming, rexxar, genji, medivh, qhira, uther, tassadar, stukov, valla, cassia, xul, sylvanas, chen, nova, deathwing, greymane, whitemane, yrel, arthas, tyrande, maiev, muradin
+---- weaker heroes are: gazlowe, ragnaros, artanis, alexstrasza, illidan
+
+map-battlefield-of-eternity
+---- strong heroes are: kel-thuzad, artanis, lucio, jaina, lunara, auriel, anduin, zarya, mephisto, kharazim, hanzo, rehgar, malfurion, sgt-hammer, thrall, imperius, deckard, li-ming, raynor, mei, alarak, malganis, valla, greymane, arthas, tyrande, muradin
+---- averag heroes are: zuljin, gazlowe, blaze, garrosh, dva, azmodan, sonya, brightwing, murky, valeera, johanna, kerrigan, tyrael, zagara, leoric, chromie, e-t-c, li-li, kaelthas, samuro, fenix, diablo, guldan, tychus, rexxar, genji, lt-morales, qhira, uther, tracer, ana, hogger, cassia, sylvanas, zeratul, chen, nova, junkrat, deathwing, yrel, falstad
+---- weaker heroes are: the-butcher, ragnaros, cho, anubarak, dehaka, stitches, orphea, nazeebo, probius, gall, the-lost-vikings, alexstrasza, malthael, illidan, medivh, varian, tassadar, stukov, abathur, xul, whitemane, maiev
 
