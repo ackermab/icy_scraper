@@ -1,0 +1,3216 @@
+{
+  "zuljin": {
+    "synergies": [
+      "arthas",
+      "e-t-c",
+      "medivh",
+      "tyrael",
+      "uther",
+      "tassadar"
+    ],
+    "counters": [
+      "e-t-c",
+      "zeratul",
+      "the-butcher",
+      "diablo",
+      "dehaka"
+    ],
+    "stronger_maps": [],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-hanamura-temple",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "gazlowe": {
+    "synergies": [
+      "malfurion",
+      "e-t-c",
+      "johanna",
+      "kaelthas",
+      "diablo",
+      "jaina"
+    ],
+    "counters": [
+      "li-ming",
+      "hanzo",
+      "chromie",
+      "guldan",
+      "raynor",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-hanamura-temple",
+      "map-towers-of-doom"
+    ]
+  },
+  "the-butcher": {
+    "synergies": [
+      "abathur",
+      "tyrande",
+      "tyrael",
+      "uther"
+    ],
+    "counters": [
+      "e-t-c",
+      "brightwing",
+      "uther",
+      "johanna"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-alterac-pass",
+      "map-infernal-shrines",
+      "map-hanamura-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout",
+      "map-blackhearts-bay"
+    ]
+  },
+  "ragnaros": {
+    "synergies": [
+      "hanzo",
+      "ana",
+      "e-t-c",
+      "kaelthas"
+    ],
+    "counters": [
+      "garrosh",
+      "stukov",
+      "jaina",
+      "lunara",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-volskaya-foundry",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-towers-of-doom",
+      "map-braxis-holdout"
+    ]
+  },
+  "blaze": {
+    "synergies": [
+      "malfurion",
+      "kerrigan",
+      "arthas",
+      "maiev"
+    ],
+    "counters": [
+      "tracer",
+      "nova",
+      "malthael",
+      "leoric",
+      "valla",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-volskaya-foundry",
+      "map-infernal-shrines",
+      "map-sky-temple",
+      "map-towers-of-doom"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "garrosh": {
+    "synergies": [
+      "malfurion",
+      "tyrande",
+      "jaina",
+      "uther"
+    ],
+    "counters": [
+      "valla",
+      "malthael",
+      "arthas",
+      "tychus"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "kel-thuzad": {
+    "synergies": [
+      "arthas",
+      "valeera",
+      "malfurion",
+      "johanna",
+      "the-butcher",
+      "varian",
+      "anduin",
+      "xul"
+    ],
+    "counters": [
+      "tracer",
+      "anubarak",
+      "valeera",
+      "nova",
+      "genji",
+      "zeratul",
+      "samuro",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-towers-of-doom",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-alterac-pass",
+      "map-warhead-junction"
+    ]
+  },
+  "cho": {
+    "synergies": [
+      "blaze",
+      "alexstrasza",
+      "yrel",
+      "brightwing",
+      "ana",
+      "auriel"
+    ],
+    "counters": [
+      "greymane",
+      "imperius",
+      "garrosh",
+      "malthael",
+      "leoric",
+      "raynor",
+      "kharazim",
+      "anubarak"
+    ],
+    "stronger_maps": [
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-warhead-junction"
+    ]
+  },
+  "artanis": {
+    "synergies": [
+      "arthas",
+      "garrosh",
+      "malfurion",
+      "medivh",
+      "kaelthas",
+      "lunara"
+    ],
+    "counters": [
+      "arthas",
+      "e-t-c",
+      "li-li",
+      "jaina",
+      "varian",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ]
+  },
+  "anubarak": {
+    "synergies": [
+      "greymane",
+      "rehgar",
+      "kaelthas",
+      "the-butcher",
+      "jaina",
+      "kerrigan"
+    ],
+    "counters": [
+      "tracer",
+      "malthael",
+      "leoric",
+      "valla",
+      "zuljin",
+      "varian"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines"
+    ]
+  },
+  "lucio": {
+    "synergies": [
+      "greymane",
+      "valla",
+      "diablo",
+      "arthas"
+    ],
+    "counters": [
+      "anubarak",
+      "sgt-hammer",
+      "varian",
+      "raynor"
+    ],
+    "stronger_maps": [
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": []
+  },
+  "dva": {
+    "synergies": [
+      "maiev",
+      "anduin",
+      "tassadar",
+      "garrosh"
+    ],
+    "counters": [
+      "stukov",
+      "malthael",
+      "e-t-c",
+      "kaelthas",
+      "raynor"
+    ],
+    "stronger_maps": [
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-infernal-shrines",
+      "map-towers-of-doom"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-braxis-holdout"
+    ]
+  },
+  "dehaka": {
+    "synergies": [
+      "hanzo",
+      "anubarak",
+      "maiev",
+      "jaina"
+    ],
+    "counters": [
+      "lucio",
+      "sgt-hammer",
+      "e-t-c",
+      "valla",
+      "raynor"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-garden-of-terror",
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen",
+      "map-blackhearts-bay"
+    ],
+    "weaker_maps": [
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple"
+    ]
+  },
+  "azmodan": {
+    "synergies": [
+      "malfurion",
+      "maiev",
+      "jaina",
+      "johanna"
+    ],
+    "counters": [
+      "malthael",
+      "leoric",
+      "diablo",
+      "the-butcher",
+      "sonya",
+      "artanis",
+      "anubarak",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-braxis-holdout"
+    ]
+  },
+  "sonya": {
+    "synergies": [
+      "zarya",
+      "jaina",
+      "medivh",
+      "rehgar"
+    ],
+    "counters": [
+      "tychus",
+      "brightwing",
+      "garrosh",
+      "sylvanas",
+      "e-t-c",
+      "diablo",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "brightwing": {
+    "synergies": [
+      "tracer",
+      "stitches",
+      "genji",
+      "cho",
+      "diablo"
+    ],
+    "counters": [
+      "e-t-c",
+      "anubarak",
+      "johanna"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "murky": {
+    "synergies": [
+      "abathur",
+      "tassadar",
+      "zarya",
+      "deckard"
+    ],
+    "counters": [
+      "tracer",
+      "li-ming",
+      "tychus",
+      "nova",
+      "genji",
+      "zarya"
+    ],
+    "stronger_maps": [
+      "map-garden-of-terror"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-volskaya-foundry",
+      "map-braxis-holdout",
+      "map-blackhearts-bay"
+    ]
+  },
+  "stitches": {
+    "synergies": [
+      "blaze",
+      "malfurion",
+      "kaelthas",
+      "falstad"
+    ],
+    "counters": [
+      "greymane",
+      "tychus",
+      "malthael",
+      "johanna",
+      "anduin"
+    ],
+    "stronger_maps": [
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-garden-of-terror",
+      "map-dragon-shire",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-warhead-junction",
+      "map-sky-temple",
+      "map-blackhearts-bay"
+    ]
+  },
+  "jaina": {
+    "synergies": [
+      "arthas",
+      "valeera",
+      "malfurion",
+      "johanna",
+      "e-t-c",
+      "the-butcher",
+      "varian",
+      "xul",
+      "muradin"
+    ],
+    "counters": [
+      "tracer",
+      "anubarak",
+      "valeera",
+      "nova",
+      "genji",
+      "zeratul",
+      "chen",
+      "alarak"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-hanamura-temple",
+      "map-warhead-junction"
+    ]
+  },
+  "orphea": {
+    "synergies": [
+      "arthas",
+      "malganis",
+      "johanna",
+      "diablo",
+      "varian",
+      "xul"
+    ],
+    "counters": [
+      "tracer",
+      "anubarak",
+      "nova",
+      "genji",
+      "lunara",
+      "chen",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-braxis-holdout",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-blackhearts-bay"
+    ]
+  },
+  "valeera": {
+    "synergies": [
+      "thrall",
+      "garrosh",
+      "e-t-c",
+      "abathur",
+      "jaina"
+    ],
+    "counters": [
+      "lucio",
+      "medivh",
+      "e-t-c",
+      "arthas"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-hanamura-temple",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "johanna": {
+    "synergies": [
+      "blaze",
+      "hanzo",
+      "maiev",
+      "jaina",
+      "deckard"
+    ],
+    "counters": [
+      "varian"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-dragon-shire",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction"
+    ]
+  },
+  "kerrigan": {
+    "synergies": [
+      "medivh",
+      "tyrande",
+      "uther",
+      "tyrael"
+    ],
+    "counters": [
+      "garrosh",
+      "e-t-c",
+      "medivh",
+      "tyrael",
+      "auriel",
+      "uther"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-towers-of-doom",
+      "map-hanamura-temple",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay"
+    ]
+  },
+  "lunara": {
+    "synergies": [
+      "jaina",
+      "arthas",
+      "muradin"
+    ],
+    "counters": [
+      "malfurion",
+      "stukov",
+      "illidan",
+      "genji"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction"
+    ]
+  },
+  "nazeebo": {
+    "synergies": [
+      "stukov",
+      "raynor",
+      "johanna"
+    ],
+    "counters": [
+      "sylvanas",
+      "e-t-c"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-tomb-of-the-spider-queen",
+      "map-volskaya-foundry"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-sky-temple",
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout",
+      "map-blackhearts-bay"
+    ]
+  },
+  "tyrael": {
+    "synergies": [
+      "blaze",
+      "malfurion",
+      "illidan"
+    ],
+    "counters": [
+      "greymane",
+      "zeratul",
+      "e-t-c",
+      "garrosh"
+    ],
+    "stronger_maps": [
+      "map-towers-of-doom",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-braxis-holdout"
+    ]
+  },
+  "zagara": {
+    "synergies": [
+      "jaina",
+      "diablo",
+      "e-t-c"
+    ],
+    "counters": [
+      "falstad",
+      "chen",
+      "illidan",
+      "zeratul"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-hanamura-temple"
+    ]
+  },
+  "auriel": {
+    "synergies": [
+      "raynor",
+      "diablo",
+      "xul",
+      "tassadar"
+    ],
+    "counters": [
+      "anubarak",
+      "chromie",
+      "junkrat",
+      "deckard",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-garden-of-terror",
+      "map-warhead-junction",
+      "map-cursed-hollow"
+    ]
+  },
+  "anduin": {
+    "synergies": [
+      "raynor",
+      "diablo",
+      "jaina",
+      "garrosh"
+    ],
+    "counters": [
+      "tracer",
+      "ana",
+      "falstad",
+      "diablo",
+      "illidan"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "zarya": {
+    "synergies": [
+      "malfurion",
+      "sonya",
+      "valla",
+      "garrosh"
+    ],
+    "counters": [
+      "yrel",
+      "malganis",
+      "lunara",
+      "auriel",
+      "tassadar"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-garden-of-terror",
+      "map-warhead-junction",
+      "map-cursed-hollow"
+    ]
+  },
+  "leoric": {
+    "synergies": [
+      "stukov",
+      "diablo",
+      "orphea"
+    ],
+    "counters": [
+      "tracer",
+      "ana",
+      "falstad",
+      "dehaka",
+      "samuro"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-braxis-holdout"
+    ]
+  },
+  "probius": {
+    "synergies": [
+      "arthas",
+      "malfurion",
+      "e-t-c",
+      "diablo",
+      "anubarak"
+    ],
+    "counters": [
+      "tracer",
+      "zeratul",
+      "alarak",
+      "kerrigan"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-blackhearts-bay"
+    ]
+  },
+  "gall": {
+    "synergies": [
+      "blaze",
+      "alexstrasza",
+      "yrel",
+      "brightwing",
+      "ana",
+      "auriel"
+    ],
+    "counters": [
+      "greymane",
+      "imperius",
+      "garrosh",
+      "malthael",
+      "leoric",
+      "raynor",
+      "kharazim",
+      "anubarak"
+    ],
+    "stronger_maps": [
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-warhead-junction"
+    ]
+  },
+  "mephisto": {
+    "synergies": [
+      "diablo",
+      "zarya",
+      "e-t-c",
+      "deckard"
+    ],
+    "counters": [
+      "kel-thuzad",
+      "stitches",
+      "kaelthas",
+      "junkrat",
+      "anubarak"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction"
+    ]
+  },
+  "chromie": {
+    "synergies": [
+      "malfurion",
+      "johanna",
+      "ana"
+    ],
+    "counters": [
+      "diablo",
+      "zeratul",
+      "illidan",
+      "tracer"
+    ],
+    "stronger_maps": [
+      "map-volskaya-foundry",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "e-t-c": {
+    "synergies": [
+      "greymane",
+      "rehgar",
+      "nazeebo",
+      "falstad",
+      "kaelthas",
+      "the-butcher",
+      "jaina"
+    ],
+    "counters": [
+      "brightwing",
+      "malthael",
+      "johanna",
+      "leoric",
+      "tyrande",
+      "valla",
+      "raynor",
+      "auriel"
+    ],
+    "stronger_maps": [],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-infernal-shrines"
+    ]
+  },
+  "li-li": {
+    "synergies": [
+      "azmodan",
+      "falstad",
+      "varian",
+      "artanis",
+      "anubarak"
+    ],
+    "counters": [
+      "e-t-c",
+      "anubarak",
+      "jaina",
+      "alarak"
+    ],
+    "stronger_maps": [],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "kaelthas": {
+    "synergies": [
+      "malfurion",
+      "uther",
+      "e-t-c",
+      "arthas"
+    ],
+    "counters": [
+      "tracer",
+      "zeratul",
+      "illidan",
+      "kerrigan"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay"
+    ]
+  },
+  "kharazim": {
+    "synergies": [
+      "anubarak",
+      "e-t-c",
+      "genji",
+      "garrosh"
+    ],
+    "counters": [
+      "auriel",
+      "uther",
+      "johanna",
+      "medivh"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-braxis-holdout"
+    ]
+  },
+  "samuro": {
+    "synergies": [
+      "abathur",
+      "malfurion",
+      "sylvanas",
+      "deckard"
+    ],
+    "counters": [
+      "lucio",
+      "yrel",
+      "stukov",
+      "e-t-c",
+      "medivh",
+      "diablo",
+      "jaina",
+      "sonya",
+      "orphea",
+      "cassia"
+    ],
+    "stronger_maps": [
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-volskaya-foundry",
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "the-lost-vikings": {
+    "synergies": [
+      "garrosh",
+      "sgt-hammer",
+      "sylvanas",
+      "raynor",
+      "zarya"
+    ],
+    "counters": [
+      "li-ming",
+      "nova",
+      "falstad",
+      "zeratul",
+      "dehaka",
+      "zagara",
+      "sonya"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-dragon-shire",
+      "map-infernal-shrines",
+      "map-blackhearts-bay"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-braxis-holdout"
+    ]
+  },
+  "alexstrasza": {
+    "synergies": [
+      "blaze",
+      "azmodan",
+      "kaelthas",
+      "johanna"
+    ],
+    "counters": [
+      "yrel",
+      "ana",
+      "sylvanas",
+      "kaelthas",
+      "anubarak"
+    ],
+    "stronger_maps": [
+      "map-volskaya-foundry",
+      "map-infernal-shrines"
+    ],
+    "average_maps": [
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout"
+    ]
+  },
+  "hanzo": {
+    "synergies": [
+      "blaze",
+      "e-t-c",
+      "johanna",
+      "malganis",
+      "zeratul",
+      "diablo"
+    ],
+    "counters": [
+      "zeratul",
+      "illidan",
+      "genji"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction"
+    ]
+  },
+  "rehgar": {
+    "synergies": [
+      "thrall",
+      "illidan",
+      "e-t-c",
+      "kerrigan"
+    ],
+    "counters": [
+      "tracer",
+      "varian",
+      "ana",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen",
+      "map-volskaya-foundry"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "malfurion": {
+    "synergies": [
+      "blaze",
+      "li-ming",
+      "nazeebo",
+      "kel-thuzad",
+      "chromie",
+      "kaelthas",
+      "guldan",
+      "jaina",
+      "ragnaros"
+    ],
+    "counters": [
+      "tracer",
+      "li-ming",
+      "jaina",
+      "kerrigan",
+      "artanis",
+      "anubarak",
+      "alarak"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "fenix": {
+    "synergies": [
+      "thrall",
+      "maiev",
+      "johanna",
+      "diablo"
+    ],
+    "counters": [
+      "lucio",
+      "e-t-c",
+      "genji",
+      "zeratul",
+      "varian"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "sgt-hammer": {
+    "synergies": [
+      "lt-morales",
+      "ana",
+      "e-t-c",
+      "johanna"
+    ],
+    "counters": [
+      "li-ming",
+      "kel-thuzad",
+      "chromie",
+      "stitches",
+      "artanis"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "malthael": {
+    "synergies": [
+      "greymane",
+      "tychus",
+      "ana",
+      "garrosh",
+      "malfurion",
+      "e-t-c",
+      "medivh"
+    ],
+    "counters": [
+      "blaze",
+      "tracer",
+      "fenix",
+      "falstad",
+      "valla",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple"
+    ]
+  },
+  "diablo": {
+    "synergies": [
+      "thrall",
+      "whitemane",
+      "alexstrasza",
+      "malfurion",
+      "tyrande",
+      "medivh",
+      "maiev",
+      "jaina",
+      "deckard"
+    ],
+    "counters": [
+      "raynor",
+      "malthael",
+      "leoric",
+      "tychus"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "illidan": {
+    "synergies": [
+      "rehgar",
+      "medivh",
+      "abathur",
+      "tyrael",
+      "uther",
+      "zarya"
+    ],
+    "counters": [
+      "brightwing",
+      "arthas",
+      "e-t-c",
+      "johanna",
+      "li-li",
+      "varian",
+      "sonya",
+      "uther",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-towers-of-doom",
+      "map-braxis-holdout"
+    ]
+  },
+  "thrall": {
+    "synergies": [
+      "fenix",
+      "diablo",
+      "rehgar",
+      "chromie"
+    ],
+    "counters": [
+      "arthas",
+      "malfurion",
+      "johanna",
+      "kaelthas",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "imperius": {
+    "synergies": [
+      "blaze",
+      "yrel",
+      "rehgar",
+      "fenix",
+      "malganis",
+      "e-t-c",
+      "jaina"
+    ],
+    "counters": [
+      "lucio",
+      "sgt-hammer",
+      "e-t-c",
+      "zuljin",
+      "raynor",
+      "jaina"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-braxis-holdout",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-warhead-junction"
+    ]
+  },
+  "guldan": {
+    "synergies": [
+      "malfurion",
+      "auriel",
+      "e-t-c"
+    ],
+    "counters": [
+      "greymane",
+      "illidan",
+      "tracer",
+      "kerrigan"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "deckard": {
+    "synergies": [
+      "blaze",
+      "arthas",
+      "kel-thuzad",
+      "johanna",
+      "diablo",
+      "jaina",
+      "kerrigan",
+      "tyrael",
+      "varian",
+      "alarak"
+    ],
+    "counters": [
+      "tracer",
+      "diablo",
+      "kerrigan",
+      "samuro",
+      "alarak"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-garden-of-terror",
+      "map-warhead-junction"
+    ]
+  },
+  "li-ming": {
+    "synergies": [
+      "valeera",
+      "arthas",
+      "malfurion",
+      "johanna",
+      "e-t-c",
+      "varian",
+      "xul"
+    ],
+    "counters": [
+      "tracer",
+      "anubarak",
+      "valeera",
+      "genji",
+      "zeratul",
+      "samuro",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-infernal-shrines",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-braxis-holdout",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-blackhearts-bay"
+    ]
+  },
+  "tychus": {
+    "synergies": [
+      "uther",
+      "e-t-c",
+      "dehaka",
+      "garrosh"
+    ],
+    "counters": [
+      "lucio",
+      "anubarak",
+      "johanna"
+    ],
+    "stronger_maps": [
+      "map-volskaya-foundry",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-hanamura-temple",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-sky-temple",
+      "map-blackhearts-bay"
+    ]
+  },
+  "rexxar": {
+    "synergies": [
+      "malfurion",
+      "jaina",
+      "johanna"
+    ],
+    "counters": [
+      "zeratul",
+      "qhira"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-dragon-shire",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "genji": {
+    "synergies": [
+      "e-t-c",
+      "uther",
+      "jaina"
+    ],
+    "counters": [
+      "malfurion",
+      "varian",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-garden-of-terror",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "medivh": {
+    "synergies": [
+      "greymane",
+      "tracer",
+      "stitches",
+      "genji",
+      "diablo",
+      "illidan"
+    ],
+    "counters": [
+      "malfurion",
+      "guldan",
+      "garrosh",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-braxis-holdout"
+    ]
+  },
+  "raynor": {
+    "synergies": [
+      "thrall",
+      "lt-morales",
+      "e-t-c",
+      "garrosh"
+    ],
+    "counters": [
+      "artanis",
+      "johanna",
+      "cassia"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "varian": {
+    "synergies": [
+      "blaze",
+      "li-ming",
+      "tyrande",
+      "e-t-c"
+    ],
+    "counters": [
+      "rehgar",
+      "arthas",
+      "e-t-c",
+      "medivh",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines",
+      "map-sky-temple"
+    ]
+  },
+  "lt-morales": {
+    "synergies": [
+      "raynor",
+      "johanna"
+    ],
+    "counters": [
+      "garrosh",
+      "chromie",
+      "lunara",
+      "auriel",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-hanamura-temple",
+      "map-tomb-of-the-spider-queen",
+      "map-towers-of-doom"
+    ],
+    "average_maps": [
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ]
+  },
+  "qhira": {
+    "synergies": [
+      "arthas",
+      "uther",
+      "rehgar"
+    ],
+    "counters": [
+      "lucio",
+      "e-t-c",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-hanamura-temple",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "uther": {
+    "synergies": [
+      "the-butcher",
+      "illidan",
+      "kerrigan",
+      "zuljin"
+    ],
+    "counters": [
+      "nazeebo",
+      "sylvanas",
+      "malthael",
+      "guldan",
+      "lunara",
+      "zagara"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-braxis-holdout"
+    ]
+  },
+  "tassadar": {
+    "synergies": [
+      "e-t-c",
+      "johanna",
+      "genji",
+      "zeratul",
+      "maiev"
+    ],
+    "counters": [
+      "tracer",
+      "greymane",
+      "zeratul",
+      "kerrigan",
+      "anubarak"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-cursed-hollow"
+    ]
+  },
+  "tracer": {
+    "synergies": [
+      "malfurion",
+      "abathur",
+      "kaelthas",
+      "guldan",
+      "jaina",
+      "anduin",
+      "tassadar"
+    ],
+    "counters": [
+      "sgt-hammer",
+      "medivh",
+      "raynor",
+      "diablo",
+      "varian"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "mei": {
+    "synergies": [
+      "jaina",
+      "xul",
+      "deckard",
+      "lunara"
+    ],
+    "counters": [
+      "yrel",
+      "hanzo",
+      "ana",
+      "e-t-c",
+      "zeratul",
+      "junkrat"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-volskaya-foundry",
+      "map-hanamura-temple",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay"
+    ]
+  },
+  "ana": {
+    "synergies": [
+      "li-ming",
+      "e-t-c"
+    ],
+    "counters": [
+      "zeratul",
+      "lucio",
+      "anubarak",
+      "hanzo"
+    ],
+    "stronger_maps": [
+      "map-hanamura-temple",
+      "map-tomb-of-the-spider-queen",
+      "map-towers-of-doom"
+    ],
+    "average_maps": [
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ]
+  },
+  "stukov": {
+    "synergies": [
+      "sgt-hammer",
+      "raynor",
+      "e-t-c"
+    ],
+    "counters": [
+      "anubarak",
+      "uther",
+      "genji"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity"
+    ]
+  },
+  "abathur": {
+    "synergies": [
+      "tracer",
+      "greymane",
+      "yrel",
+      "malthael",
+      "genji",
+      "zeratul",
+      "sonya",
+      "illidan"
+    ],
+    "counters": [
+      "sgt-hammer",
+      "sylvanas",
+      "falstad",
+      "dehaka",
+      "ragnaros",
+      "zarya"
+    ],
+    "stronger_maps": [
+      "map-towers-of-doom",
+      "map-garden-of-terror",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-dragon-shire",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-warhead-junction"
+    ],
+    "weaker_maps": [
+      "map-braxis-holdout",
+      "map-hanamura-temple",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-tomb-of-the-spider-queen"
+    ]
+  },
+  "alarak": {
+    "synergies": [
+      "e-t-c",
+      "raynor",
+      "jaina",
+      "garrosh"
+    ],
+    "counters": [
+      "medivh",
+      "deathwing",
+      "e-t-c",
+      "johanna"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-towers-of-doom"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-infernal-shrines",
+      "map-sky-temple",
+      "map-blackhearts-bay"
+    ]
+  },
+  "hogger": {
+    "synergies": [
+      "li-ming",
+      "hanzo",
+      "stukov",
+      "garrosh"
+    ],
+    "counters": [
+      "hanzo",
+      "ana",
+      "e-t-c",
+      "medivh"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "weaker_maps": [
+      "map-hanamura-temple"
+    ]
+  },
+  "malganis": {
+    "synergies": [
+      "malfurion",
+      "zeratul",
+      "jaina"
+    ],
+    "counters": [
+      "malfurion",
+      "zeratul",
+      "hanzo",
+      "garrosh"
+    ],
+    "stronger_maps": [
+      "map-sky-temple",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-garden-of-terror",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction",
+      "map-tomb-of-the-spider-queen",
+      "map-blackhearts-bay"
+    ]
+  },
+  "valla": {
+    "synergies": [
+      "tassadar",
+      "uther",
+      "e-t-c",
+      "arthas"
+    ],
+    "counters": [
+      "greymane",
+      "valeera",
+      "nova",
+      "zeratul",
+      "the-butcher",
+      "illidan"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "cassia": {
+    "synergies": [
+      "thrall",
+      "johanna",
+      "li-li",
+      "jaina",
+      "artanis"
+    ],
+    "counters": [
+      "sgt-hammer",
+      "e-t-c",
+      "malganis",
+      "johanna",
+      "kaelthas",
+      "guldan"
+    ],
+    "stronger_maps": [],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "xul": {
+    "synergies": [
+      "falstad",
+      "li-ming",
+      "tyrande",
+      "medivh"
+    ],
+    "counters": [
+      "sgt-hammer",
+      "e-t-c",
+      "johanna",
+      "jaina",
+      "auriel"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-alterac-pass"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-braxis-holdout"
+    ]
+  },
+  "sylvanas": {
+    "synergies": [
+      "tyrande",
+      "e-t-c",
+      "valla",
+      "diablo",
+      "jaina",
+      "tassadar"
+    ],
+    "counters": [
+      "valeera",
+      "nova",
+      "genji",
+      "zeratul",
+      "the-butcher",
+      "diablo",
+      "chen"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-warhead-junction"
+    ]
+  },
+  "zeratul": {
+    "synergies": [
+      "li-ming",
+      "hanzo",
+      "garrosh",
+      "malfurion",
+      "abathur",
+      "diablo",
+      "kharazim",
+      "jaina",
+      "junkrat"
+    ],
+    "counters": [
+      "brightwing",
+      "e-t-c",
+      "medivh",
+      "diablo",
+      "varian",
+      "uther"
+    ],
+    "stronger_maps": [
+      "map-infernal-shrines",
+      "map-sky-temple",
+      "map-towers-of-doom",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-braxis-holdout"
+    ]
+  },
+  "chen": {
+    "synergies": [
+      "greymane",
+      "li-ming",
+      "rehgar",
+      "abathur",
+      "tyrael"
+    ],
+    "counters": [
+      "the-lost-vikings",
+      "lucio",
+      "li-ming",
+      "yrel",
+      "e-t-c",
+      "raynor"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-garden-of-terror",
+      "map-warhead-junction",
+      "map-cursed-hollow"
+    ]
+  },
+  "nova": {
+    "synergies": [
+      "blaze",
+      "stukov",
+      "sylvanas",
+      "johanna"
+    ],
+    "counters": [
+      "zarya",
+      "johanna",
+      "tyrael",
+      "chen",
+      "illidan",
+      "tassadar",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-volskaya-foundry",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ]
+  },
+  "junkrat": {
+    "synergies": [
+      "garrosh",
+      "malfurion",
+      "e-t-c",
+      "zeratul",
+      "uther"
+    ],
+    "counters": [
+      "tracer",
+      "genji",
+      "zeratul",
+      "tyrael",
+      "illidan"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-blackhearts-bay"
+    ],
+    "weaker_maps": []
+  },
+  "deathwing": {
+    "synergies": [
+      "johanna",
+      "e-t-c",
+      "arthas",
+      "muradin"
+    ],
+    "counters": [
+      "greymane",
+      "tracer",
+      "tychus",
+      "valla",
+      "zeratul"
+    ],
+    "stronger_maps": [
+      "map-alterac-pass",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "greymane": {
+    "synergies": [
+      "rehgar",
+      "garrosh",
+      "malthael",
+      "e-t-c",
+      "abathur",
+      "tyrael",
+      "uther"
+    ],
+    "counters": [
+      "brightwing",
+      "arthas",
+      "johanna",
+      "the-butcher",
+      "uther",
+      "xul",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "whitemane": {
+    "synergies": [
+      "blaze",
+      "sonya",
+      "johanna"
+    ],
+    "counters": [
+      "li-ming",
+      "raynor",
+      "alarak"
+    ],
+    "stronger_maps": [],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ]
+  },
+  "yrel": {
+    "synergies": [
+      "abathur",
+      "maiev",
+      "johanna",
+      "garrosh"
+    ],
+    "counters": [
+      "lucio",
+      "raynor",
+      "e-t-c",
+      "johanna"
+    ],
+    "stronger_maps": [
+      "map-braxis-holdout",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-volskaya-foundry",
+      "map-sky-temple"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-tomb-of-the-spider-queen",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "arthas": {
+    "synergies": [
+      "greymane",
+      "rehgar",
+      "stukov",
+      "chromie",
+      "raynor",
+      "diablo",
+      "maiev",
+      "tyrael",
+      "zarya"
+    ],
+    "counters": [
+      "tracer",
+      "ana",
+      "garrosh",
+      "raynor",
+      "jaina",
+      "sonya"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-warhead-junction",
+      "map-infernal-shrines",
+      "map-hanamura-temple",
+      "map-blackhearts-bay",
+      "map-towers-of-doom",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-garden-of-terror",
+      "map-dragon-shire",
+      "map-braxis-holdout"
+    ]
+  },
+  "tyrande": {
+    "synergies": [
+      "li-ming",
+      "e-t-c",
+      "diablo",
+      "varian",
+      "anubarak"
+    ],
+    "counters": [
+      "fenix",
+      "zeratul",
+      "maiev",
+      "lunara",
+      "anubarak",
+      "muradin"
+    ],
+    "stronger_maps": [
+      "map-dragon-shire",
+      "map-battlefield-of-eternity",
+      "map-infernal-shrines",
+      "map-tomb-of-the-spider-queen"
+    ],
+    "average_maps": [
+      "map-sky-temple",
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": []
+  },
+  "falstad": {
+    "synergies": [
+      "tassadar",
+      "uther",
+      "e-t-c",
+      "arthas"
+    ],
+    "counters": [
+      "greymane",
+      "valeera",
+      "nova",
+      "genji",
+      "zeratul",
+      "illidan"
+    ],
+    "stronger_maps": [
+      "map-warhead-junction",
+      "map-hanamura-temple",
+      "map-towers-of-doom",
+      "map-dragon-shire",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-blackhearts-bay",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-battlefield-of-eternity",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": []
+  },
+  "maiev": {
+    "synergies": [
+      "blaze",
+      "malfurion",
+      "e-t-c",
+      "jaina",
+      "deckard",
+      "tassadar"
+    ],
+    "counters": [
+      "tracer",
+      "lucio",
+      "brightwing",
+      "arthas",
+      "johanna",
+      "e-t-c",
+      "tyrael",
+      "lunara"
+    ],
+    "stronger_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-braxis-holdout",
+      "map-cursed-hollow"
+    ],
+    "average_maps": [
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple"
+    ],
+    "weaker_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple",
+      "map-warhead-junction"
+    ]
+  },
+  "muradin": {
+    "synergies": [
+      "blaze",
+      "hanzo",
+      "malfurion",
+      "kaelthas",
+      "kerrigan"
+    ],
+    "counters": [
+      "thrall",
+      "malfurion",
+      "e-t-c",
+      "raynor",
+      "jaina"
+    ],
+    "stronger_maps": [
+      "map-battlefield-of-eternity",
+      "map-hanamura-temple"
+    ],
+    "average_maps": [
+      "map-warhead-junction",
+      "map-towers-of-doom",
+      "map-blackhearts-bay",
+      "map-dragon-shire",
+      "map-garden-of-terror",
+      "map-volskaya-foundry",
+      "map-alterac-pass",
+      "map-sky-temple",
+      "map-cursed-hollow"
+    ],
+    "weaker_maps": [
+      "map-tomb-of-the-spider-queen",
+      "map-infernal-shrines",
+      "map-braxis-holdout"
+    ]
+  }
+}
